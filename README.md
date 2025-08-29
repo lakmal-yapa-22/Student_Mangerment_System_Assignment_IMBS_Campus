@@ -42,7 +42,7 @@ The project uses PHP, HTML, and CSS alongside the WAMP server environment, makin
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/student-management-system.git
+   git clone [https://github.com/yourusername/student-management-system.git](https://github.com/lakmal-yapa-22/Student_Mangerment_System_Assignment_IMBS_Campus.git)
    ```
 
 2. **Set Up WAMP Server**
@@ -192,3 +192,4 @@ If you encounter any issues or have questions about the project:
 **⭐ If you found this project helpful, please give it a star!**
 
 > Built with ❤️ for learning and educational purposes
+
